@@ -1,3 +1,0 @@
-*.h5 filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-model/cataracts_recognizer_model.keras filter=lfs diff=lfs merge=lfs -text
